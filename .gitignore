@@ -1,0 +1,7 @@
+__pycache__/*
+data/*
+garbage/*
+saved_models/*
+HW3.pdf
+HW3_sol.pdf
+VAE_theory.pdf
